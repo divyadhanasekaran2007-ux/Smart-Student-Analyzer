@@ -1,0 +1,5 @@
+username,password,role,department,class,student_id
+student1,123,student,CSE,A,S1
+teacher1,123,teacher,CSE,A,
+hod1,123,hod,CSE,ALL,
+admin1,123,admin,ALL,ALL,

@@ -1,0 +1,7 @@
+student_id,name,department,class,semester,maths,physics,cs,attendance
+S1,Arun,CSE,A,1,78,82,90,85
+S1,Arun,CSE,A,2,88,79,92,87
+S2,Divya,CSE,A,1,60,65,70,75
+S2,Divya,CSE,A,2,55,60,68,70
+S3,Ravi,CSE,A,1,72,68,75,80
+S3,Ravi,CSE,A,2,78,70,82,83
