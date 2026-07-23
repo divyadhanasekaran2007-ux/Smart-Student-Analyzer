@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background: linear-gradient(
+        to right,
+        #4facfe,
+        #00f2fe
+    );
+
+    margin: 0;
+    padding: 0;
+}
+
+/* Login Container */
+
+.container {
+    width: 350px;
+
+    margin: 100px auto;
+
+    background-color: white;
+
+    padding: 30px;
+
+    border-radius: 12px;
+
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+
+    text-align: center;
+}
+
+/* Heading */
+
+h1, h2 {
+    color: #333;
+    text-align: center;
+}
+
+/* Input Boxes */
+
+input {
+    width: 90%;
+
+    padding: 10px;
+
+    margin-top: 10px;
+
+    border-radius: 5px;
+
+    border: 1px solid #ccc;
+}
+
+/* Button */
+
+button {
+    width: 95%;
+
+    padding: 10px;
+
+    margin-top: 15px;
+
+    background-color: #007bff;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Tables */
+
+.table {
+    width: 90%;
+
+    margin: 20px auto;
+
+    border-collapse: collapse;
+
+    background-color: white;
+}
+
+.table th,
+.table td {
+
+    border: 1px solid #ccc;
+
+    padding: 10px;
+
+    text-align: center;
+}
+
+.table th {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Logout Link */
+
+a {
+    display: block;
+
+    text-align: center;
+
+    margin-top: 20px;
+
+    text-decoration: none;
+
+    color: darkblue;
+
+    font-weight: bold;
+}
+
+/* Error Message */
+
+.error {
+    color: red;
+}
